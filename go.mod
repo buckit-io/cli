@@ -1,4 +1,4 @@
-module github.com/minio/cli
+module github.com/buckit-io/cli
 
 go 1.12
 
